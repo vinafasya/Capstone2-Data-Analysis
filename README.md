@@ -5,9 +5,11 @@ Tableau Story: https://public.tableau.com/views/CapstoneModule2_VinaF_/Story?:la
 Video: https://drive.google.com/file/d/1M4quyXqwSSSslu32qS7b4U990ysN0qnr/view?usp=drive_link
 
 Background
+
 The "Supermarket Customers.csv" dataset provides comprehensive information about supermarket customers. It includes demographic details such as age, education, marital status, income, and household composition (number of children/teens). Additionally, it captures shopping behavior, including spending on various product categories, preferred purchasing channels, and responses to marketing promotions. This dataset was gathered by the supermarket to gain a deeper understanding of customer preferences and behaviors.
 
 Problem Statement
+
 The goal of this analysis is to determine how customer demographic factors—such as age, education, marital status, income, and household composition (number of children/teens)—influence their shopping behavior at the supermarket. Specifically, we aim to understand how these characteristics affect spending across product categories like wine, fruits, meat, fish, sweets, and gold.
 
 This analysis will be used to provide meaningful insights that can help in various aspects of supermarket operations, including:
@@ -18,6 +20,7 @@ This analysis will be used to provide meaningful insights that can help in vario
 * Actionable Stakeholder Recommendations: Delivering clear, data-driven recommendations for stakeholders to make informed decisions regarding marketing, inventory management, and customer engagement strategies.
 
 Objectives
+
 1. Understand how customer demographic characteristics (age, education, marital status, income, household composition) influence their shopping behavior, particularly in terms of spending across various product categories.
 2. Identify the most profitable customer segments and determine effective marketing strategies for each segment.
 3. Optimize inventory management and merchandising based on customer preferences and shopping behavior.
