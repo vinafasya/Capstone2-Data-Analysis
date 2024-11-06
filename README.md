@@ -1,6 +1,6 @@
 # Capstone2-Data-Analysis
 Tableau Story: https://public.tableau.com/views/CapstoneModule2_VinaF_/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Video: 
+Video: https://drive.google.com/file/d/1M4quyXqwSSSslu32qS7b4U990ysN0qnr/view?usp=drive_link
 
 Background
 The "Supermarket Customers.csv" dataset provides comprehensive information about supermarket customers. It includes demographic details such as age, education, marital status, income, and household composition (number of children/teens). Additionally, it captures shopping behavior, including spending on various product categories, preferred purchasing channels, and responses to marketing promotions. This dataset was gathered by the supermarket to gain a deeper understanding of customer preferences and behaviors.
