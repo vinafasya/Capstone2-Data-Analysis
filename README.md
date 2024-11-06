@@ -10,7 +10,7 @@ The "Supermarket Customers.csv" dataset provides comprehensive information about
 
 Problem Statement
 
-The goal of this analysis is to determine how customer demographic factors—such as age, education, marital status, income, and household composition (number of children/teens)—influence their shopping behavior at the supermarket. Specifically, we aim to understand how these characteristics affect spending across product categories like wine, fruits, meat, fish, sweets, and gold.
+The goal of this analysis is to determine how customer demographic factors, such as age, education, marital status, income, and household composition (number of children/teens), influence their shopping behavior at the supermarket. Specifically, we aim to understand how these characteristics affect spending across product categories like wine, fruits, meat, fish, sweets, and gold.
 
 This analysis will be used to provide meaningful insights that can help in various aspects of supermarket operations, including:
 
